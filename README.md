@@ -95,6 +95,10 @@ To run this project locally, follow the steps below:
 - Improve stock symbol retrieval accuracy.
 - Implement additional financial metrics extraction.
 
+## Contributor
+
+This repository is maintained by [Nitin Yadav](https://github.com/NitinYadav1511).
+
 ## License
 
 This project is open-source and available under the MIT License.
